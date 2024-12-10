@@ -20,7 +20,7 @@ Este é um projeto com Java 17 que implementa o algoritimo de ordenação Bubble
 * Navegue até o arquivo Main.java.
 *  Clique com o botão direito no código e escolha Run 'Main.main'()'.
 
-# exemplo de Execução
+# Exemplo de Execução
 ## Código do Array no Programa
 * int[] arr = {24, 68, 70, 10, 5, 20};
 
