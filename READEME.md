@@ -7,7 +7,7 @@ Este é um projeto com Java 17 que implementa o algoritimo de ordenação Bubble
 * IntelliJ IDEA (escolha a sua IDEA preferida).
 *  Git (para clonar o repositório).
 
-# Como baixa o projeto
+# Como baixar o projeto
 ## 1. Clone o repositório:
 * git clone git@github.com:flaviahespanhol-zup/exercicio-algoritmo.git
 ## 2. Abra o projeto na sua idea (Intellij)
